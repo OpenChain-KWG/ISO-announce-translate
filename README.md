@@ -16,11 +16,16 @@ OpenChain의 ISO Standard announcement의 한국어 번역을 위한 repository�
 
 ## 기여 방법
 
-영문 원본을 working.md 파일에 복사해두었습니다. 각 단락마다 아래와 같이 번역을 담당할 기여자의 이름과 한국어 번역을 포함시킬 수 있습니다. 
+영문 원본을 [working.md](./working.md) 파일에 복사해두었습니다. 각 단락마다 아래와 같이 번역을 담당할 기여자의 이름과 한국어 번역을 포함시킬 수 있습니다. 
 
 
 ```html
-Companies around the world can learn more about ISO/IEC JTC1 XXX, methods of self-certification, independent assessment or third-party certification, as well as access a large library of reference material at:
+Companies around the world can learn more about ISO/IEC JTC1 XXX, 
+
+methods of self-certification, independent assessment or third-party 
+
+certification, as well as access a large library of reference material at:
+
 https://www.openchainproject.org
 
 (번역: ...)
