@@ -4,15 +4,9 @@ The Linux Foundation, Joint Development Foundation and the OpenChain Project are
 
 (번역: 장학성)
 
-..
+# 오픈소스 컴플라이언스를 위한 국제 표준, ISO/IEC JTC1 XXX
 
-..
-
-..
-
-..
-
-
+Linux Foundation, Joint Development Foundation 및 OpenChain Project는 ISO / IEC JTC1 XXX가 국제 표준으로 승인 되었음을 발표하게 되어 기쁘게 생각합니다. 공식적으로 OpenChain 2.0으로 알려진 ISO/IEC JTC1 XXX는 오픈소스 라이선스 준수를 위한 간단하고 명확하며 효과적인 프로세스 관리 표준입니다. 이를 통해 모든 규모와 분야의 기업이 우수한 오픈소스 컴플라이언스 프로그램의 핵심 요구사항을 확인할 수 있습니다.
 
 
 Companies around the world can learn more about ISO/IEC JTC1 XXX, methods of self-certification, independent assessment or third-party certification, as well as access a large library of reference material at:
@@ -20,37 +14,20 @@ https://www.openchainproject.org
 
 (번역: 장학성)
 
-..
+전 세계의 기업은 다음 사이트에서 ISO/IEC JTC1 XXX, 자체 인증, 독립 평가 또는 3자 인증의 자세한 방법과 더불어 많은 참고 자료를 확인할 수 있습니다. : https://www.openchainproject.org
 
-..
-
-..
-
-..
 
 ISO/IEC JTC1 XXX is an open standard and all parties are welcome to engage with our community, learn from their peers, share their knowledge, and to contribute to the future of our standard. There is no charge to access and use our reference material, self-certification or to engage with our numerous calls, webinars, mailing lists and meetings.
 
 (번역: 장학성)
 
-..
-
-..
-
-..
-
-..
+ISO/IEC JTC1 XXX는 개방형 표준(Open Standard)이며, 커뮤니티에 참여하고, 동료로부터 배우고, 지식을 공유하고, 우리의 표준에 기여하는 모든 참여자를 환영합니다. 우리의 참조 자료를 사용하고 자체 인증을 수행하거나, 수많은 통화, 웨비나, 메일링 리스트 및 회의에 참여하여도 비용이 청구되지 않습니다. 
 
 “ISO/IEC JTC1 XXX will improve OSS compliance, enhance trust in the supply chain, and reduce friction in transactions. It has been deployed as a de facto standard for four years and fostered exceptional engagement from a diversity of companies across multiple sectors,” says Shane Coughlan, OpenChain General Manager. “Our transition to a formal International Standard as ISO/IEC JTC1 XXX marks an important inflection point for OpenChain and open source as a whole. For the first time there is an International Standard that defines open source compliance and process management. We look forward to expanding our community from hundreds to thousands of companies in the coming months, and we look forward to supporting many of these companies access and apply best practice material developed in real world market conditions."
 
 (번역: 장학성)
 
-..
-
-..
-
-..
-
-..
+“ISO/IEC JTC1 XXX는 오픈소스 컴플라이언스를 개선하고, 공급망에 대한 신뢰를 높이며, 거래하는데 발생하는 마찰을 줄일 것입니다. 이는 4년 동안 사실상의 표준으로 배포되었으며, 여러 부문에 걸쳐 다양한 회사의 획기적인 참여를 촉진했습니다. ISO/IEC JTC1 XXX와 같은 정식 국제 표준의 전환은 OpenChain과 오픈소스 전체에 있어 중요한 변곡점이 됩니다. 이는 오픈소스 컴플라이언스 및 프로세스 관리를 정의한 최초의 국제 표준입니다. 앞으로 몇 개월 내에 수백 개의 기업에서 수천 개의 기업으로 커뮤니티가 확장되어서 우리가 실제 시장 상황에서 개발된 모범 사례 자료를 많은 기업이 참고하고 적용할 수 있도록 지원할 수 있기를 기대합니다."라고 OpenChain 총괄 관리자인 Shane Coughlan이 말했습니다. “
 
 ## Toyota
 

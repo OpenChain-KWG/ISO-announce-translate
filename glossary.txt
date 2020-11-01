@@ -1,0 +1,16 @@
+영문원본단어        한글번역단어
+===
+Open Source	    오픈소스
+OSS     오픈소스
+Compliance	    컴플라이언스
+OpenChain	    OpenChain
+OpenChain Project	    OpenChain Project
+Linux Foundation	    Linux Foundation
+Joint Development Foundation	    Joint Development Foundation
+License	    라이선스
+certification   인증
+self-certification      자체 인증
+assessment      평가
+third-party     3자
+reference material  참조 자료
+supply chain        공급망
