@@ -246,13 +246,11 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “WDC has been part of the development and deployment of the industry standard for open source compliance since its formative years,” says Alan Tse, Associate General Counsel at Western Digital. “Today’s announcement marks a significant milestone in the maturity of both this standard and the wider field of open source governance. We look forward to working with our fellow board members and the diverse community of community participants in the growing adoption of a single, simple way to identify quality open source compliance programs.”
 
-(번역: ...)
+(번역: 김한주)
 
-..
-
-..
-
-..
+WDC는 (산업이) 형성된 후 오픈 소스 컴플라이언스를 위한 산업 표준의 개발 및 배치의 일부였다"고 Western Digital의 Alan Tse Associative General Counsel은 말한다.
+그는 "오늘 발표는 이 기준의 성숙도와 오픈소스 거버넌스 분야에서 중요한 이정표가 될 것"이라고 말했다.
+양질의 오픈 소스 컴플라이언스 프로그램을 식별할 수 있는 단 하나의 간단한 방법을 채택하는 데 있어 동료 이사진 및 지역사회 참여자들의 다양한 커뮤니티와 협력하기를 기대한다."
 
 ----
 
@@ -261,13 +259,16 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “Today is the historic day for the OpenChain project and The Linux Foundation that the open standard has become an ISO/IEC JTC1 standard,” said Masato Endo, Chair of the OpenChain Automotive Work Group. “Open Source is becoming more and more important in the automotive industry as well. The automotive industry's supply chain is large and every company in the supply chain needs to manage OSS properly. I believe the OpenChain Specification will be a strong support for companies to build their OSS governance structure. I’d like to thank David Rudin and members of the JDF community for their efforts in obtaining ISO/IEC JTC1. I want to express my gratitude to Mark Gisi, David Marr and all OpenChain community members for their significant contributions to the project. Finally, I congratulate our leader Shane Coughlan on this great achievement!”
 
-(번역: ...)
+(번역: 김한주)
 
-..
+(한글)글로벌 커뮤니티 인용문
+엔도 마사토 오픈체인 오토 워크그룹 회장은 "오늘은 오픈 표준이 ISO/IEC JTC1 표준이 된 오픈체인 프로젝트와 리눅스 재단의 역사적인 날"이라고 말했다.
+자동차 업계에서도 오픈소스가 갈수록 중요해지고 있다. 자동차 산업의 공급망이 크고 공급망의 모든 기업이 오픈소스SW를 적절히 관리할 필요가 있다.
+오픈체인 사양이 기업의 오픈소스SW 지배구조 구축에 든든한 버팀목이 될 것이라 믿는다.
+ISO/IEC JTC1을 획득하기 위해 노력한 데이비드 루딘과 JDF 커뮤니티 회원들에게 감사드린다.
+마크 기시, 데이비드 마르, 그리고 모든 오픈체인 커뮤니티 회원들이 이 프로젝트에 큰 기여를 해 준 것에 대해 감사를 표하고 싶다.
+마지막으로 우리 리더 셰인 코글런이 이 위대한 업적을 이룬 것을 축하한다!"
 
-..
-
-..
 
 ----
 
@@ -276,13 +277,11 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 OpenChain began when a group of open source compliance professionals met in a conference lounge and chatted about how so much duplicative, redundant open source license compliance work was being done inefficiently in the software supply chain simply.  They realized that while each company did the same work behind the scenes in a different manner the output for downstream recipients could not realistically be relied on because there was no visibility into the process that generated the output.  
 
-(번역: ...)
+(번역: 김한주) 
 
-..
-
-..
-
-..
+OpenChain은 오픈소스 컴플라이언스 전문가 그룹이 컨퍼런스 라운지에서 만나 소프트웨어 공급망에서 얼마나 많은 중복 오픈소스 라이선스 컴플라이언스 작업이 비효율적으로 이루어지고 있는지에 대해 이야기를 나누면서 시작되었습니다.
+그들은 각 회사가 서로 다른 방식으로 동일한 작업을 수행했지만, 결과물을 생성하는 프로세스에 대한 가시성이 없기 때문에 다운 스트림 수신자의 산출물은 현실적으로 신뢰할 수 없다는 것을 깨달았습니다.
+이 논의의 초기 원칙은 오픈 소스 컴플라이언스를 표준화하고, 이를 투명하게 하며, 생태계 전반에 걸쳐 신뢰를 구축하는 것이었습니다. 이 프로젝트는 "순응이 혁신적일 때"라는 제목의 슬라이드에 대한 오픈소스 라이선스 준수를 위한 새로운 표준 아이디어로 지역사회에 대한 홍보로 시작되었다. 성장하는 커뮤니티는 이러한 접근방식의 가치를 빠르게 인식했고 곧 The OpenChain Project라는 이름의 초기 협업에도 기여했다.
 
 ----
 
