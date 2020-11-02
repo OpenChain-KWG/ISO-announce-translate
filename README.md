@@ -14,6 +14,7 @@ OpenChain의 ISO Standard announcement의 한국어 번역을 위한 repository�
 | 홍종호 | `LG Electronics` | jjongho.hong@lge.com |
 | 정윤환 | `Samsung Electronics` | yh00.jung@samsung.com |
 | 김한주 | `Hyundai MNSOFT` | hicom@hyundai-mnsoft.com |
+| 김동민 | `NCSOFT` | tommy@ncsoft.com |
 | You     | Your company  | Your email |
 
 ## 기여 방법
