@@ -125,7 +125,7 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “Google has been at the forefront of open source development and the use of open source in business since its inception,” says Max Sills, Attorney at Google. “Our collaboration with the OpenChain Project has been an important part of supporting greater maturity and predictability in this space. The release of ISO/IEC JTC1 XXX is more than an important announcement. It provides a clear lighthouse to guide all future open source governance and inter-company collaboration in the space. For the first time, quality open source compliance is defined. We look forward to sharing this development with all the stakeholders in open source use."
 
-(번역: ...)
+(번역: 정윤환)
 
 ..
 
@@ -141,7 +141,7 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “OpenChain has played a leading role in building trust in the open source ecosystem,” said David Rudin, Microsoft Assistant General Counsel. “When you receive software that has been produced through an OpenChain conformant program, it’s a great indication that the open source compliance obligations were taken seriously. With Microsoft’s OpenChain conformant program, we are keeping the trust our customers have placed in us to make sure their software is compliant and reducing friction in software transactions.   As OpenChain takes the next step of becoming an international standard, we’re looking forward to continuing to advance open source adoption and trust in the community.”
 
-(번역: ...)
+(번역: 정윤환)
 
 ..
 
@@ -156,7 +156,7 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “Our work with the OpenChain Project is part of a larger vision for mature, sustainable open source governance,” says David Chen, Innovation R&D Center Director at MOXA. “MOXA seeks excellence in products while also seeking excellence in social engagement. Supporting the development and deployment of the industry standard for open source compliance is a significant step in the maturity of our field. We look forward to working with our peers in the deployment of OpenChain as an ISO/IEC JTC1 International Standard to an audience of thousands of companies. Today is a milestone in building efficiency and trust between companies using open source for innovative products and solutions.”
 
-(번역: ...)
+(번역: 정윤환)
 
 ..
 
@@ -171,7 +171,7 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “As a member of OpenChain, OPPO is very pleased to see OpenChain being accepted as an ISO/IEC JTC1 International Standard,” says Andy Wu, Vice President of OPPO and President of Software Engineering. “We believe this will help to further promote open source compliance. OPPO very much hopes to promote OpenChain with its partners, so that open source compliance becomes more consistent and simple.”
 
-(번역: ...)
+(번역: 정윤환)
 
 ..
 
