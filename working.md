@@ -208,14 +208,11 @@ SVP, Sony 기업, Software Strategy Committee 대표 히사시 타마이는 "Son
 
 "This achievement by OpenChain brings into reality the effort that so many across the software ecosystem has recognized for years – that when you can build trust into the open source compliance ecosystem, you create a path towards consistent, efficient, and reliable license compliance,” says Dave Marr, Vice President, Qualcomm Technologies, Inc.  "We applaud the many contributors to OpenChain for achieving this terrific milestone, and for collaboratively building the internationally recognized standard for open source license compliance."
 
-(번역: ...)
+(번역: 김한주)
 
-..
-
-..
-
-..
-
+Dave Marr 퀄컴 Technologies, Inc. 부사장은 "오픈체인의 이러한 성과는 소프트웨어 생태계 전반에서 수년간의 노력을 현실화하여,
+오픈 소스 컴플라이언스 에코시스템에 대한 신뢰를 구축할 수 있을 때 일관되고 효율적이며 신뢰할 수 있는 라이센스 컴플라이언스를 위한 길을 열어준다"고 말했다.
+이러한 놀라운 이정표를 달성하고 국제적으로 공인된 오픈 소스 라이센스 컴플라이언스 표준을 공동으로 구축한 것에 대해 많은 기여자들에게 박수를 보낸다."
 ----
 
 
@@ -223,13 +220,11 @@ SVP, Sony 기업, Software Strategy Committee 대표 히사시 타마이는 "Son
 
 “Uber has supported the development and deployment of the OpenChain industry standard from early stages of deployment through to gaining maturity as a de facto standard,” says XXX. “Today’s publication as an ISO/IEC JTC1 International Standard is a key milestone in bringing clear, practical and effective open source license compliance to thousands of companies across the supply chain. We look forward to collaborating with our peers in accomplishing this mission and supporting our growing international community.”
 
-(번역: ...)
+(번역: 김한주)
 
-..
-
-..
-
-..
+XXX는 "Uber가 OpenChain 산업 표준의 개발 및 구축을 초기 구축 단계부터 실질적인 표준으로 성숙도를 확보할 때까지 지원해 왔다"고 말한다.
+"오늘날 ISO/IEC JTC1 국제 표준으로 발간되는 출판물은 공급망을 통한 수천 개의 기업에 명확하고 실용적이며 효과적인 오픈 소스 라이센스 준수를 가져다 주는 중요한 이정표다.
+우리는 이 임무를 완수하고 성장하는 국제사회를 지원하기 위해 동료들과 협력하기를 기대한다."
 
 ----
 
