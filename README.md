@@ -13,6 +13,7 @@ OpenChain의 ISO Standard announcement의 한국어 번역을 위한 repository�
 |장학성   |`SK telecom`            |haksung@sk.com           |
 | 홍종호 | `LG Electronics` | jjongho.hong@lge.com |
 | 정윤환 | `Samsung Electronics` | yh00.jung@samsung.com |
+| 김한주 | `Hyundai MNSOFT` | hicom@hyundai-mnsoft.com |
 | You     | Your company  | Your email |
 
 ## 기여 방법
