@@ -11,7 +11,7 @@ OpenChain의 ISO Standard announcement의 한국어 번역을 위한 repository�
 |                |소속                          |email                         |
 |----------------|-------------------------------|-----------------------------|
 |장학성   |`SK telecom`            |haksung@sk.com           |
-| You | `Your Company` | Your Email |
+| 홍종호 | `LG Electronics` | jjongho.hong@lge.com |
 |          |           |            |
 
 ## 기여 방법
