@@ -45,7 +45,7 @@ LINK
 
 ## Toyota
 
-Toyota는 ISO / IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최초의 회사입니다. 또한 OpenChain 2.0 준수 프로그램을 보유한 회사는 ISO / IEC JTC1 XXX의 요구사항을 자동적으로 준수하는 것으로 간주합니다. Toyota 발표에 대한 자세한 내용은 링크를 통해 확인하실 수 있습니다.: LINK
+Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최초의 회사입니다. 또한, OpenChain 2.0 준수 프로그램을 보유한 회사는 ISO/IEC JTC1 XXX의 요구사항을 자동으로 준수하게 됩니다. Toyota 발표에 대한 자세한 내용은 다음 링크에서 확인할 수 있습니다.: LINK
 
 
 ----
@@ -59,8 +59,7 @@ Toyota는 ISO / IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 �
 
 ## Arm
 
-"Arm사는 OpenChain 프로젝트의 창립 멤버이며, Arm사는 OpenChain과 함께 개념적인 부분에서 점점 더 많이 사용되는 산업 표준으로 발전에 동참했습니다."라고 Arm의 Third-Party Licensing 이사인 Sami Atabani는 이야기 하였습니다. “공식 ISO / IEC JTC1 국제 표준으로서의 승인은 OpenChain의 오픈소스 거버넌스 분야에서의 중요한 이정표이며, 우리는 동료들, 더 넓은 커뮤니티 및 해당 분야의 새로운 회사들과 함께 협력하기를 기대하며, 또한 이 새로운 회사들과 함께 완벽한 전달을 추구합니다. 공급망 내 기업 간의 신뢰관계는 오늘날 상당한 발전을 이루었습니다.”
-
+"Arm은 OpenChain Project의 창립 멤버로서, 구상 단계에서부터 산업 표준으로까지 성장하는 과정을 함께 했습니다. OpenChain이 공식적인 ISO/IEC JTC1 국제 표준으로 인정된 것은 오픈소스 거버넌스 분야에서의 중요한 이정표이며, OpenChain의 우수성을 전파하기 위해 우리는 동종 업계, 더 넓은 커뮤니티, 그리고 완전히 새로운 기업들과의 협력을 기대합니다. 오늘날 공급망 내의 기업 간의 신뢰가 상당히 진전되었습니다.”라고 Arm의 Third-Party Licensing 담당이사인 Sami Atabani가 말했습니다. 
 
 ----
 
