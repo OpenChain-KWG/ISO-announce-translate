@@ -34,25 +34,21 @@ ISO/IEC JTC1 XXX는 개방형 표준(Open Standard)이며, 커뮤니티에 참�
 Toyota is the first company to formally announce conformance to ISO/IEC JTC1 XXX. Additionally, companies that have an OpenChain 2.0 conformant program will automatically conform with the requirements of ISO/IEC JTC1 XXX. You can learn more about the Toyota announcement here:
 LINK
 
-(번역: ...)
+(번역: 홍종호)
 
-..
+## Toyota
 
-..
-
-..
+Toyota는 ISO / IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최초의 회사입니다. 또한 OpenChain 2.0 준수 프로그램을 보유한 회사는 ISO / IEC JTC1 XXX의 요구사항을 자동적으로 준수하는 것으로 간주합니다. Toyota 발표에 대한 자세한 내용은 링크를 통해 확인하실 수 있습니다.: LINK
 
 ## Arm
 
 “Arm is a founding member of the OpenChain Project and we have been part of its evolution from concept to increasingly used industry standard,” says Sami Atabani, Director of Third-Party Licensing at Arm. “The graduation of OpenChain as a formal ISO/IEC JTC1 International Standard is an important milestone for open source governance as a field, and we look forward to collaborating with our peers, with the wider community, and with companies entirely new to the field in seeking excellence in delivery. Trust between companies in the supply chain has taken a significant step forward today.”
 
-(번역: ...)
+(번역: 홍종호)
 
-..
+## Arm
 
-..
-
-..
+"Arm사는 OpenChain 프로젝트의 창립 멤버이며, Arm사는 OpenChain과 함께 개념적인 부분에서 점점 더 많이 사용되는 산업 표준으로 발전에 동참했습니다."라고 Arm의 Third-Party Licensing 이사인 Sami Atabani는 이야기 하였습니다. “공식 ISO / IEC JTC1 국제 표준으로서의 승인은 OpenChain의 오픈소스 거버넌스 분야에서의 중요한 이정표이며, 우리는 동료들, 더 넓은 커뮤니티 및 해당 분야의 새로운 회사들과 함께 협력하기를 기대하며, 또한 이 새로운 회사들과 함께 완벽한 전달을 추구합니다. 공급망 내 기업 간의 신뢰관계는 오늘날 상당한 발전을 이루었습니다.”
 
 ## BMW CarIT
 
@@ -60,11 +56,9 @@ LINK
 
 (번역: ...)
 
-..
+## BMW CarIT
 
-..
-
-..
+"BMW CarIT는 프로세스의 품질을 개선하기 위해 지속적으로 노력하고 있습니다." BMW CarIT의 선임 소프트웨어 엔지니어인 Helio Chissini de Castro는 이야기 하였습니다. "소프트웨어 컴플라이언스 미래와 기업이 그것을 어떻게 인식해야 할 것인가에 대한 올바른 해답인 ISO / IEC JTC1 XXX의 승인을 환영합니다. 우리는 OpenChain 이사회와 더 넓은 커뮤니티의 일원이 된 것을 자랑스럽게 생각합니다. "
 
 ## Bosch
 
