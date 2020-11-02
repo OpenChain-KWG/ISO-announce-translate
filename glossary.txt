@@ -14,3 +14,6 @@ assessment      평가
 third-party     3자
 reference material  참조 자료
 supply chain        공급망
+Conformance	    적합성
+Conformant	    준수
+program     프로그램
