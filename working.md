@@ -186,13 +186,9 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “Siemens is a founding member of the OpenChain Project and we have contributed to OpenChain since its beginning. Today we reached an outstanding milestone - the OpenChain specification is now an ISO/IEC JTC1 International Standard,” says Oliver Fendt, Senior Manager Open Source “Our engagement with OpenChain is based on a clear understanding that effective governance in open source must be practical, efficient, sustainable and affordable for everyone. With the ISO/IEC JTC1 Standard we will enter a new stage in the evolution of our collective work, and we look forward to working with our peers in building further trust in the open source supply chain."
 
-(번역: ...)
+(번역: 김동민) 
 
-..
-
-..
-
-..
+"Siemens는 OpenChain Project의 창립 멤버로, 우리는 그 시작부터 OpenChain에 기여해 왔습니다. 오늘 우리는 중요한 이정표에 도달했습니다. OpenChain 규격이 이제 ISO/IEC JTC1 국제 표준이 된 것입니다" 라고 Open Source 수석 매니저인 Oliver Fendt가 말했습니다. 추가로 그는 "OpenChain과의 연계는 오픈소스에 대한 효과적인 거버넌스가 모두에게 실용적이고, 효율적이며, 지속 가능하고, 저렴해야 한다는 명확한 이해를 바탕으로 합니다. ISO/IEC JTC1 표준으로 우리는 집단 작업의 진화에 새로운 단계로 진입할 것이며, 오픈 소스 공급망에서 더 많은 신뢰를 구축하는데 있어 동료들과 협력하기를 기대합니다."라고 덧붙였습니다.
 
 ----
 
@@ -201,13 +197,9 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “Sony has been part of the OpenChain industry standard and its related community for substantial amount of time,” says Hisashi Tamai, SVP, Sony Corporation, representative of Software Strategy Committee. “We have had the great pleasure to host the first meeting in Japan and support growth across this nation and abroad in the subsequent years. The publication of OpenChain by ISO as a formal International Standard is an important milestone in our shared mission to ensure excellence in open source. We look forward to working with our fellow board members, our diverse community and our colleagues at ISO in bringing this standard to thousands of new companies across the globe."
 
-(번역: ...)
+(번역: 김동민) 
 
-..
-
-..
-
-..
+SVP, Sony 기업, Software Strategy Committee 대표 히사시 타마이는 "Sony는 상당 기간 OpenChain 산업 표준과 관련 커뮤니티의 일부였습니다"고 말했습니다. "우리는 일본에서 첫 회의를 개최하고 그 후 몇 년 동안 국내외에서 성장을 지원할 수 있는 큰 기쁨을 누렸습니다. OpenChain을 공식적인 국제 표준으로서 인정한다는 ISO의 발표는 오픈소스의 우수성을 보장하기 위한 우리의 공동 임무에서 중요한 이정표입니다. 우리는 이 표준을 전 세계 수천 개의 새로운 회사에 도입하기 위해 동료 이사진, 다양한 커뮤니티, ISO의 동료들과 함께 일하기를 기대합니다."
 
 ----
 
