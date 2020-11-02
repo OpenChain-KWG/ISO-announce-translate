@@ -68,12 +68,11 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 "At BMW CarIT we continually work on improving the quality of our processes,” says Helio Chissini de Castro, Senior Software Engineer at BMW CarIT. “We welcome the approval of ISO/IEC JTC1 XXX as the right path for the future of software compliance and how companies will perceive it. We are proud to be part of OpenChain governing board and wider community that make this possible."
 
-(번역: ...)
+(번역: 홍종호)
 
 ## BMW CarIT
 
-"BMW CarIT는 프로세스의 품질을 개선하기 위해 지속적으로 노력하고 있습니다." BMW CarIT의 선임 소프트웨어 엔지니어인 Helio Chissini de Castro는 이야기 하였습니다. "소프트웨어 컴플라이언스 미래와 기업이 그것을 어떻게 인식해야 할 것인가에 대한 올바른 해답인 ISO / IEC JTC1 XXX의 승인을 환영합니다. 우리는 OpenChain 이사회와 더 넓은 커뮤니티의 일원이 된 것을 자랑스럽게 생각합니다. "
-
+"BMW CarIT는 프로세스의 품질을 개선하기 위해 지속적으로 노력하고 있습니다. 소프트웨어 컴플라이언스 미래와 기업이 그것을 어떻게 인식해야 할 것인가에 대한 올바른 해답인 ISO / IEC JTC1 XXX의 승인을 환영합니다. 우리는 OpenChain 이사회와 더 넓은 커뮤니티의 일원이 된 것을 자랑스럽게 생각합니다."라고 BMW CarIT의 선임 소프트웨어 엔지니어인 Helio Chissini de Castro이 말했습니다.
 
 ----
 
@@ -83,13 +82,11 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “Bosch and its affiliates have a firm commitment to quality in all aspects of creating, deploying and supporting solutions and products,” says Hans Malte Kern, Head of the Center of Competence Open Source, Robert Bosch GmbH. “Our engagement with the OpenChain industry standard for open source compliance is part of this larger vision, and we are delighted to see it graduate ISO as a formal International Standard. We now have a global, universal and easily understood mechanism to build increased clarity and trust across the supply chain.”
 
-(번역: ...)
+(번역: 홍종호)
 
-..
+## Bosch
 
-..
-
-..
+“Bosch사와 우리 계열사들은 솔루션과 제품을 만들어 배포부터 지원까지 모든 측면에서 품질에 대한 확고한 의지를 가지고 있습니다. OpenChain 산업 표준에 대한 우리의 참여는 오픈소스 컴플라이언스를 위한 큰 비전의 일부이며, ISO의 공식적인 국제 표준으로 인증 받게 되어 기쁩니다. 이를 통해 우리는 공급망 전반에 걸쳐 명확성과 신뢰성을 높일 수 있는 세계적이고 보편적으로 이해하기 쉬운 메커니즘을 갖추게 되었습니다."라고 Robert Bosch GmbH의 역량센터 오픈소스 책임자인 Hans Malte Kern이 말했습니다.
 
 
 ----
@@ -100,13 +97,11 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “Cisco is honored to partner with an incredible team on the OpenChain project. Earlier this year (June 2020), our conformance with the OpenChain’s latest 2.0 specification for open source compliance has been the needle mover towards streamlining compliance as an indispensable entity across our organization, building Trust and improving overall productivity,” says Prasad Iyer Director, Product Operations at Cisco. “Now with ISO/IEC JTC1 standardization of this latest OpenChain specification, it really solidifies Cisco’s  commitment to excellence in Open source governance along with OpenChain which is well positioned at the top of the Compliance stack. We’re sincerely  looking forward to our continued collaboration and partnership with all our OpenChain project peers across industry in the successful evolution of more such formal standards in the years ahead.”
 
-(번역: ...)
+(번역: 홍종호)
 
-..
+## Cisco
 
-..
-
-..
+“Cisco는 OpenChain 프로젝트에서 놀라운 팀과 협력하게 되어 영광입니다. 올해 초(2020년 6월) OpenChain의 최신 2.0버전 사양에 대한 오픈소스 컴플라이언스 준수는 조직 전반에 걸쳐 없어서는 안되는 실체로 발전하였으며 컴플라이언스를 간소화하며 신뢰를 구축하고 전반적인 생산성을 향상시키는 원동력이 되었습니다. 이제 최신 OpenChain 사양의 ISO / IEC JTC1 표준화를 통해 컴플라이언스 스택의 최상위에 있는 OpenChain과 함께 오픈소스 거버넌스의 우수성에 대한 Cisco의 약속을 확고히 하려 합니다. 우리는 앞으로 몇 년 동안 더 공식적인 표준을 성공적으로 발전시키기 위해 업계 전반에 걸쳐 우리의 모든 OpenChain 프로젝트 동료들과 함께 지속적인 협력과 파트너십을 맺고 나아가기를 진심으로 기대하고 있습니다.”라고 Cisco 제품 운영 이사 Prasad Iyer이 말했습니다.
 
 
 ----
@@ -116,13 +111,11 @@ Toyota는 ISO/IEC JTC1 XXX에 대한 적합성을 공식적으로 발표한 최�
 
 “Fujitsu has contributed to the development of OpenChain as an industry standard for several years,” says Aoki Yasuko, Manager of Open Source Software Technology Center, Fujitsu Limited. “Our engagement is part of our broader engagement throughout the supply chain to promote excellence in governance and sustainability in practical deployment. The publication of OpenChain as a formal ISO/IEC JTC1 International Standard is a significant milestone in the evolution of open source. We are proud of the accomplishment of all the contributors involved, and we look forward to the next steps in ensuring simple, reliable open source license compliance across the world.”
 
-(번역: ...)
+(번역: 홍종호)
 
-..
+## Fujitsu
 
-..
-
-..
+“Fujitsu는 몇 년 동안 업계 표준으로서 OpenChain 개발에 기여해 왔습니다.“ "우리의 참여는 공급망 전반에 걸친 광범위한 참여의 일부이며, 뛰어난 거버넌스와 실제 배포의 지속 가능성을 촉진하였습니다. OpenChain을 공식 ISO / IEC JTC1 국제 표준으로 발표된 것은 오픈소스 발전에 있어 중요한 이정표가 될 것 입니다. 이를 이루기 위한 모든 기여자의 업적을 자랑스럽게 생각하며, 전 세계 회사들이 간단하면서도 신뢰할 수 있는 오픈소스 라이선스 컴플라이언스를 보장하기 위한 표준이 될 다음 단계를 기대합니다."라고 Fujitsu Limited의 오픈 소스 소프트웨어 기술 센터 관리자 Aoki Yasuko이 말했습니다.
 
 
 ----
