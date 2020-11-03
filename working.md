@@ -264,17 +264,12 @@ OpenChain began when a group of open source compliance professionals met in a co
 
 OpenChain은 오픈소스 컴플라이언스 전문가 그룹이 컨퍼런스 라운지에서 만나 소프트웨어 공급망에서 얼마나 많은 중복 오픈소스 라이선스 컴플라이언스 작업이 비효율적으로 이루어지고 있는지에 대해 이야기를 나누면서 시작되었습니다.
 그들은 각 회사가 서로 다른 방식으로 동일한 작업을 수행했지만, 결과물을 생성하는 프로세스에 대한 가시성이 없기 때문에 다운 스트림 수신자의 산출물은 현실적으로 신뢰할 수 없다는 것을 깨달았습니다.
-이 논의의 초기 원칙은 오픈 소스 컴플라이언스를 표준화하고, 이를 투명하게 하며, 생태계 전반에 걸쳐 신뢰를 구축하는 것이었습니다. 이 프로젝트는 "순응이 혁신적일 때"라는 제목의 슬라이드에 대한 오픈소스 라이선스 준수를 위한 새로운 표준 아이디어로 지역사회에 대한 홍보로 시작되었다. 성장하는 커뮤니티는 이러한 접근방식의 가치를 빠르게 인식했고 곧 The OpenChain Project라는 이름의 초기 협업에도 기여했다.
 
 ----
 
 
 The answer the early principles of this discussion arrived at was to standardize open source compliance, make it transparent and build trust across the ecosystem. The project began as outreach to the community with the idea of a new standard for open source license compliance with slides titled, “When Conformity is Innovative.”  A growing community quickly recognized the value of this approach and contributed to the nascent collaboration soon named The OpenChain Project.  
 
-(번역: 진희두)
+(번역: 김한주)
 
-..
-
-..
-
-..
+이 논의의 초기 원칙은 오픈 소스 컴플라이언스를 표준화하고, 이를 투명하게 하며, 생태계 전반에 걸쳐 신뢰를 구축하는 것이었습니다. 이 프로젝트는 "순응이 혁신적일 때"라는 제목의 슬라이드에 대한 오픈소스 라이선스 준수를 위한 새로운 표준 아이디어로 지역사회에 대한 홍보로 시작되었다. 성장하는 커뮤니티는 이러한 접근방식의 가치를 빠르게 인식했고 곧 The OpenChain Project라는 이름의 초기 협업에도 기여했다.
