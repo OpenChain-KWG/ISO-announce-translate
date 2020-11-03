@@ -271,7 +271,7 @@ OpenChain은 오픈소스 컴플라이언스 전문가 그룹이 컨퍼런스 �
 
 The answer the early principles of this discussion arrived at was to standardize open source compliance, make it transparent and build trust across the ecosystem. The project began as outreach to the community with the idea of a new standard for open source license compliance with slides titled, “When Conformity is Innovative.”  A growing community quickly recognized the value of this approach and contributed to the nascent collaboration soon named The OpenChain Project.  
 
-(번역: ...)
+(번역: 진희두)
 
 ..
 
