@@ -272,3 +272,4 @@ The answer the early principles of this discussion arrived at was to standardize
 이 논의의 초기 원칙에 대한 답은 오픈 소스 컴플라이언스를 표준화하고 이를 투명하게 하며 생태계 전반에 걸쳐 신뢰를 구축하는 것이었습니다.
 이 프로젝트는 "준수가 혁신적일 때"라는 제목의 슬라이드에 대한 오픈소스 라이선스 준수를 위한 새로운 표준 아이디어로 지역사회에 대한 홍보로 시작되었습니다.
 성장하는 커뮤니티는 이러한 접근방식의 가치를 빠르게 인식했고 곧 The OpenChain Project라는 이름의 초기 협업에도 기여했습니다.
+
