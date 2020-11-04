@@ -4,7 +4,7 @@ Open Source	    오픈소스
 OSS     오픈소스
 Compliance	    컴플라이언스
 OpenChain	    OpenChain
-OpenChain Project	    OpenChain Project
+OpenChain Project	    OpenChain 프로젝트
 Linux Foundation	    Linux Foundation
 Joint Development Foundation	    Joint Development Foundation
 License	    라이선스
